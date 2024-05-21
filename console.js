@@ -34,5 +34,19 @@
     </script>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Merhaba Dünya</title>
+</head>
+<body>
+    <p id="demo"></p>
+
+    <script>
+        document.getElementById("demo").innerHTML = "Merhaba Dünya!";
+    </script>
+</body>
+</html>
+
 
 
