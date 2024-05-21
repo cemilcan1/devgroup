@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basit CSS Örneği</title>
+    <style>
+        p {
+            color: blue;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <p>Bu mavi renkli ve 20 piksel büyüklüğünde bir para
